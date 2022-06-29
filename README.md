@@ -32,10 +32,10 @@ User flows
 ![](https://i.imgur.com/yFSHLTV.png)
 
 
-Database schema
+Class schema
 ---
 ## Mongo DB
-![](https://i.imgur.com/Cn5sTTb.png)
+![]([https://i.imgur.com/Cn5sTTb.png](https://drive.google.com/file/d/186wxQgaiYpbqoWFDtPD-u6Y6T7RHHUZ3/view?usp=sharing))
 
 
 Used Technology
