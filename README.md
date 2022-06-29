@@ -34,7 +34,7 @@ User flows
 Class schema
 ---
 ## Mongo DB
-![](https://imgur.com/NLixw4H)
+![](https://imgur.com/a/s4mkuSQ)
 
 
 Used Technology
