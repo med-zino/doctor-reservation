@@ -25,6 +25,14 @@ User story
     As a client, I can reserve an appointment 
     As a client, I can choose the date of appointment besides the time.
 ```
+```gherkin=
+    As a doctor, I can view my calendar.
+    As a doctor, I can accept or refuse an appointment 
+    As a doctor, erite and extract medical prescriptions.
+```
+
+
+
 
 User flows
 ---
