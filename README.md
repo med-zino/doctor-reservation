@@ -1,9 +1,8 @@
-CLINIC APP 
+CLINITY 
 ===
-![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
-![build](https://img.shields.io/appveyor/ci/:user/:repo.svg)
 
- [Visit the Site from here !](https://clinic-online.herokuapp.com/)
+
+// [Visit the Site from here !](https://clinic-online.herokuapp.com/)
  
 ![](https://i.imgur.com/qiAjVwz.png)
 
@@ -40,24 +39,23 @@ Class schema
 
 Used Technology
 ---
-MERN technology used :100: 
-1. Node Js
+1. Nest Js
 2. Express
 3. React
-4. MongoDB
-5. API
+4. Redux
+5. Mysql
+6. Docker
 
-Used Features
+availble roles
 ---
-1. back end
-2. front end
-3. control Panel
-4. covid-19 articles from API
+1. admin
+2. doctor
+3. clinet(PATIENT)
+4. doc assistant
 
-Stretch goals
+Clinity provides
 ---
-- update statics on the control panel 
-- update the queries on the control panel
-- add new doctors from the control panel
-- update the security on backend and frontend
-- add the file to every client can flow up his profile and appointments besides the result from doctors and hs medicine.
+- appointement gesture
+- accounts gesture
+- medical folder gesture
+- medical prescription gesture
