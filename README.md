@@ -28,7 +28,7 @@ User story
 ```gherkin=
     As a doctor, I can view my calendar.
     As a doctor, I can accept or refuse an appointment 
-    As a doctor, erite and extract medical prescriptions.
+    As a doctor, write and extract medical prescriptions.
 ```
 
 
